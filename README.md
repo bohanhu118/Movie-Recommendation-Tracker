@@ -6,47 +6,17 @@
 
 𝐴 𝑐𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝑚𝑜𝑣𝑖𝑒 𝑚𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚 𝑡ℎ𝑎𝑡 𝑎𝑙𝑙𝑜𝑤𝑠 𝑢𝑠𝑒𝑟𝑠 𝑡𝑜 𝑏𝑟𝑜𝑤𝑠𝑒 𝑚𝑜𝑣𝑖𝑒𝑠, 𝑚𝑎𝑛𝑎𝑔𝑒 𝑤𝑎𝑡𝑐ℎ𝑙𝑖𝑠𝑡𝑠, 𝑡𝑟𝑎𝑐𝑘 𝑣𝑖𝑒𝑤𝑖𝑛𝑔 ℎ𝑖𝑠𝑡𝑜𝑟𝑦, 𝑎𝑛𝑑 𝑟𝑒𝑐𝑒𝑖𝑣𝑒 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙𝑖𝑧𝑒𝑑 𝑚𝑜𝑣𝑖𝑒 𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑎𝑡𝑖𝑜𝑛𝑠. 𝐵𝑢𝑖𝑙𝑡 𝑤𝑖𝑡ℎ 𝑜𝑏𝑗𝑒𝑐𝑡-𝑜𝑟𝑖𝑒𝑛𝑡𝑒𝑑 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠 𝑖𝑛 𝐽𝑎𝑣𝑎, 𝑓𝑒𝑎𝑡𝑢𝑟𝑖𝑛𝑔 𝑏𝑜𝑡ℎ 𝐶𝑜𝑚𝑚𝑎𝑛𝑑-𝐿𝑖𝑛𝑒 𝐼𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑒 (𝐶𝐿𝐼) 𝑎𝑛𝑑 𝐺𝑟𝑎𝑝ℎ𝑖𝑐𝑎𝑙 𝑈𝑠𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑒 (𝐺𝑈𝐼) 𝑣𝑒𝑟𝑠𝑖𝑜𝑛𝑠. 𝐴 𝑐𝑜𝑚𝑝𝑟𝑒ℎ𝑒𝑛𝑠𝑖𝑣𝑒 𝑚𝑜𝑣𝑖𝑒 𝑚𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚 𝑡ℎ𝑎𝑡 𝑎𝑙𝑙𝑜𝑤𝑠 𝑢𝑠𝑒𝑟𝑠 𝑡𝑜 𝑏𝑟𝑜𝑤𝑠𝑒 𝑚𝑜𝑣𝑖𝑒𝑠, 𝑚𝑎𝑛𝑎𝑔𝑒 𝑤𝑎𝑡𝑐ℎ𝑙𝑖𝑠𝑡𝑠, 𝑡𝑟𝑎𝑐𝑘 𝑣𝑖𝑒𝑤𝑖𝑛𝑔 ℎ𝑖𝑠𝑡𝑜𝑟𝑦, 𝑎𝑛𝑑 𝑟𝑒𝑐𝑒𝑖𝑣𝑒 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙𝑖𝑧𝑒𝑑 𝑚𝑜𝑣𝑖𝑒 𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑎𝑡𝑖𝑜𝑛𝑠. 𝐵𝑢𝑖𝑙𝑡 𝑤𝑖𝑡ℎ 𝑜𝑏𝑗𝑒𝑐𝑡-𝑜𝑟𝑖𝑒𝑛𝑡𝑒𝑑 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑙𝑒𝑠 𝑖𝑛 𝐽𝑎𝑣𝑎, 𝑓𝑒𝑎𝑡𝑢𝑟𝑖𝑛𝑔 𝑏𝑜𝑡ℎ 𝐶𝑜𝑚𝑚𝑎𝑛𝑑-𝐿𝑖𝑛𝑒 𝐼𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑒 (𝐶𝐿𝐼) 𝑎𝑛𝑑 𝐺𝑟𝑎𝑝ℎ𝑖𝑐𝑎𝑙 𝑈𝑠𝑒𝑟 𝐼𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑒 (𝐺𝑈𝐼) 𝑣𝑒𝑟𝑠𝑖𝑜𝑛𝑠.
 
+
 ## 🎯 𝑂𝑣𝑒𝑟𝑣𝑖𝑒𝑤  
 𝑇ℎ𝑒 **𝑀𝑜𝑣𝑖𝑒 𝑅𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑎𝑡𝑖𝑜𝑛 & 𝑇𝑟𝑎𝑐𝑘𝑒𝑟 𝑆𝑦𝑠𝑡𝑒𝑚** 𝑖𝑠 𝑎 𝐽𝑎𝑣𝑎-𝑏𝑎𝑠𝑒𝑑 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛 𝑡ℎ𝑎𝑡 ℎ𝑒𝑙𝑝𝑠 𝑢𝑠𝑒𝑟𝑠 𝑑𝑖𝑠𝑐𝑜𝑣𝑒𝑟 𝑛𝑒𝑤 𝑚𝑜𝑣𝑖𝑒𝑠 𝑏𝑎𝑠𝑒𝑑 𝑜𝑛 𝑡ℎ𝑒𝑖𝑟 𝑤𝑎𝑡𝑐ℎ𝑖𝑛𝑔 𝑝𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒𝑠. 𝑈𝑠𝑒𝑟𝑠 𝑐𝑎𝑛 𝑚𝑎𝑖𝑛𝑡𝑎𝑖𝑛 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑤𝑎𝑡𝑐ℎ𝑙𝑖𝑠𝑡𝑠, 𝑡𝑟𝑎𝑐𝑘 𝑡ℎ𝑒𝑖𝑟 𝑣𝑖𝑒𝑤𝑖𝑛𝑔 ℎ𝑖𝑠𝑡𝑜𝑟𝑦, 𝑎𝑛𝑑 𝑟𝑒𝑐𝑒𝑖𝑣𝑒 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑚𝑜𝑣𝑖𝑒 𝑟𝑒𝑐𝑜𝑚𝑚𝑒𝑛𝑑𝑎𝑡𝑖𝑜𝑛𝑠 𝑢𝑠𝑖𝑛𝑔 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝑠𝑡𝑟𝑎𝑡𝑒𝑔𝑖𝑒𝑠. 𝑇ℎ𝑖𝑠 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑑𝑒𝑚𝑜𝑛𝑠𝑡𝑟𝑎𝑡𝑒𝑠 𝑘𝑒𝑦 𝑜𝑏𝑗𝑒𝑐𝑡-𝑜𝑟𝑖𝑒𝑛𝑡𝑒𝑑 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑐𝑜𝑛𝑐𝑒𝑝𝑡𝑠 𝑖𝑛𝑐𝑙𝑢𝑑𝑖𝑛𝑔 𝑖𝑛ℎ𝑒𝑟𝑖𝑡𝑎𝑛𝑐𝑒, 𝑝𝑜𝑙𝑦𝑚𝑜𝑟𝑝ℎ𝑖𝑠𝑚, 𝑒𝑛𝑐𝑎𝑝𝑠𝑢𝑙𝑎𝑡𝑖𝑜𝑛, 𝑓𝑖𝑙𝑒 𝐼/𝑂 𝑜𝑝𝑒𝑟𝑎𝑡𝑖𝑜𝑛𝑠, 𝑒𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛 ℎ𝑎𝑛𝑑𝑙𝑖𝑛𝑔, 𝑎𝑛𝑑 𝐺𝑈𝐼 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑤𝑖𝑡ℎ 𝐽𝑎𝑣𝑎𝐹𝑋. 
 
-## ✨ Features
 
-### Core Features
-
-| Feature | Description |
-|---------|-------------|
-| **User Authentication** | Login system with password hashing and account types |
-| **Account Registration** | Create new Basic or Premium user accounts |
-| **Browse Movies** | View all movies from the database with details |
-| **Watchlist Management** | Add/remove movies to personal watchlist |
-| **Viewing History** | Track watched movies with timestamps |
-| **Recommendations** | Get personalized movie suggestions |
-
-### Recommendation Strategies
-
-| Strategy | Description | Availability |
-|----------|-------------|--------------|
-| **By Genre** | Recommends movies based on user's most-watched genres | All users |
-| **By Rating** | Recommends highest-rated unwatched movies | Premium only |
-| **By Year** | Recommends newest unwatched movies | Premium only |
-| **Hybrid** | Combines rating (70%) and recency (30%) | Premium only |
-
-### Advanced Features Implemented
-
-- ✅ User account registration system
-- ✅ Password change functionality
-- ✅ Multiple recommendation strategies (switchable at runtime)
-- ✅ JavaFX Graphical User Interface
-- ✅ Subclassing User into BasicUser and PremiumUser
-- ✅ Password hashing with salt
-
-## 🛠 Tech Stack
-
-- **Language**: Java 17+
-- **GUI Framework**: JavaFX
-- **Data Storage**: CSV files
-- **Build Tool**: Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
-- **Version Control**: Git
+## 🛠 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘
+- **𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒**: 𝐽𝑎𝑣𝑎 17+
+- **𝐺𝑈𝐼 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘**: 𝐽𝑎𝑣𝑎𝐹𝑋
+- **𝐷𝑎𝑡𝑎 𝑆𝑡𝑜𝑟𝑎𝑔𝑒**: 𝐶𝑆𝑉 𝑓𝑖𝑙𝑒𝑠
+- **𝐵𝑢𝑖𝑙𝑑 𝑇𝑜𝑜𝑙**: 𝐴𝑛𝑦 𝐽𝑎𝑣𝑎 𝐼𝐷𝐸 (𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝐽 𝐼𝐷𝐸𝐴, 𝐸𝑐𝑙𝑖𝑝𝑠𝑒, 𝑉𝑆 𝐶𝑜𝑑𝑒)
+- **𝑉𝑒𝑟𝑠𝑖𝑜𝑛 𝐶𝑜𝑛𝑡𝑟𝑜𝑙**: 𝐺𝑖𝑡
 
 ## 📁 Project Structure
 ```
