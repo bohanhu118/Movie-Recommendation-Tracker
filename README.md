@@ -68,8 +68,7 @@ This project demonstrates key object-oriented programming concepts including inh
 - **Version Control**: Git
 
 ## 📁 Project Structure
-
-```movie-recommendation-system/
+movie-recommendation-system/
 ├── src/
 │   ├── Main/
 │   │   ├── MovieSystemCLI.java      # Command-line interface
@@ -92,7 +91,7 @@ This project demonstrates key object-oriented programming concepts including inh
 ├── docs/
 │   └── screenshots/                  # Application screenshots
 ├── README.md
-└── LICENSE```
+└── LICENSE
 
 
 ## 🚀 Installation
