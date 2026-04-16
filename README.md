@@ -18,9 +18,9 @@
 - **𝐵𝑢𝑖𝑙𝑑 𝑇𝑜𝑜𝑙**: 𝐴𝑛𝑦 𝐽𝑎𝑣𝑎 𝐼𝐷𝐸 (𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝐽 𝐼𝐷𝐸𝐴, 𝐸𝑐𝑙𝑖𝑝𝑠𝑒, 𝑉𝑆 𝐶𝑜𝑑𝑒)
 - **𝑉𝑒𝑟𝑠𝑖𝑜𝑛 𝐶𝑜𝑛𝑡𝑟𝑜𝑙**: 𝐺𝑖𝑡
 
-## 📁 Project Structure
+## 📁 𝑃𝑟𝑜𝑗𝑒𝑐𝑡 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒
 ```
-movie-recommendation-system/
+Movie-Recommendation-Tracker/
 ├── src/
 │   ├── Main/
 │   │   ├── MovieSystemCLI.java      # Command-line interface
@@ -37,11 +37,9 @@ movie-recommendation-system/
 │   │   ├── RecommendationEngine.java # Recommendation algorithms
 │   │   ├── CSVHandler.java           # File I/O operations
 │   │   └── SaltHash.java             # Password hashing utility
-│   └── Resources/
+├── Resources/
 │       ├── movies.csv                # Movie database
 │       └── users.csv                 # User data storage
-├── docs/
-│   └── screenshots/                  # Application screenshots
 ├── README.md
 └── LICENSE
 ```
