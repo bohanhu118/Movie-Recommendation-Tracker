@@ -23,8 +23,8 @@
 Movie-Recommendation-Tracker/
 ├── src/
 │   ├── Main/
-│   │   ├── MovieSystemCLI.java      # Command-line interface
-│   │   └── MovieSystemGUI.java      # JavaFX graphical interface
+│   │   ├── MovieSystemCLI.java       # Command-line interface
+│   │   └── MovieSystemGUI.java       # JavaFX graphical interface
 │   ├── Models/
 │   │   ├── Movie.java                # Movie entity
 │   │   ├── User.java                 # Base user class
@@ -44,25 +44,20 @@ Movie-Recommendation-Tracker/
 └── LICENSE
 ```
 
-## 🚀 Installation
+## 🚀 𝐼𝑛𝑠𝑡𝑎𝑙𝑙𝑎𝑡𝑖𝑜𝑛  
 
-### Prerequisites
+### 𝑃𝑟𝑒𝑟𝑒𝑞𝑢𝑖𝑠𝑖𝑡𝑒𝑠  
+- 𝐽𝑎𝑣𝑎 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝐾𝑖𝑡 (𝐽𝐷𝐾)
+- 𝐽𝑎𝑣𝑎𝐹𝑋 𝑆𝐷𝐾 (𝑓𝑜𝑟 𝐺𝑈𝐼 𝑣𝑒𝑟𝑠𝑖𝑜𝑛)
 
-- Java Development Kit (JDK) 17 or higher
-- JavaFX SDK (for GUI version)
-
-### Step-by-Step Setup
-
-1. **Clone the repository**
-   ```bash
+### 𝑆𝑡𝑒𝑝-𝑏𝑦-𝑆𝑡𝑒𝑝 𝑆𝑒𝑡𝑢𝑝  
+1. **𝐶𝑙𝑜𝑛𝑒 𝑡ℎ𝑒 𝑟𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑦**
+   ```𝑏𝑎𝑠ℎ
    git clone https://github.com/yourusername/movie-recommendation-system.git
    cd movie-recommendation-system
+2. **𝑆𝑒𝑡 𝑢𝑝 𝐽𝑎𝑣𝑎𝐹𝑋 (𝑓𝑜𝑟 𝐺𝑈𝐼 𝑣𝑒𝑟𝑠𝑖𝑜𝑛)**
+𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝐽𝑎𝑣𝑎𝐹𝑋 𝑆𝐷𝐾 𝑓𝑟𝑜𝑚 𝑜𝑝𝑒𝑛𝑗𝑓𝑥.𝑖𝑜
+𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝐽 𝐼𝐷𝐸𝐴:
+- 𝐹𝑖𝑙𝑒 → 𝑃𝑟𝑜𝑗𝑒𝑐𝑡 𝑆𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒 → 𝐿𝑖𝑏𝑟𝑎𝑟𝑖𝑒𝑠 → + → 𝐽𝑎𝑣𝑎 → 𝑆𝑒𝑙𝑒𝑐𝑡 𝐽𝑎𝑣𝑎𝐹𝑋 𝑙𝑖𝑏 𝑓𝑜𝑙𝑑𝑒𝑟
+- 𝑅𝑢𝑛 → 𝐸𝑑𝑖𝑡 𝐶𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑎𝑡𝑖𝑜𝑛𝑠 → 𝑉𝑀 𝑜𝑝𝑡𝑖𝑜𝑛𝑠: ```--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml```
 
-2. **Set up JavaFX (for GUI version)**
-
-Download JavaFX SDK from openjfx.io
-
-IntelliJ IDEA:
-
-- File → Project Structure → Libraries → + → Java → Select JavaFX lib folder
-- Run → Edit Configurations → VM options: ```--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml```
