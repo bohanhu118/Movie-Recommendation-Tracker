@@ -55,7 +55,7 @@ Movie-Recommendation-Tracker/
 1. **𝐶𝑙𝑜𝑛𝑒 𝑡ℎ𝑒 𝑟𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑦**
    ```𝑏𝑎𝑠ℎ
    git clone https://github.com/yourusername/movie-recommendation-system.git
-   cd movie-recommendation-system
+   cd movie-recommendation-system```
    
 2. **𝑆𝑒𝑡 𝑢𝑝 𝐽𝑎𝑣𝑎𝐹𝑋 (𝑓𝑜𝑟 𝐺𝑈𝐼 𝑣𝑒𝑟𝑠𝑖𝑜𝑛)**
    𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝐽𝑎𝑣𝑎𝐹𝑋 𝑆𝐷𝐾 𝑓𝑟𝑜𝑚 𝑜𝑝𝑒𝑛𝑗𝑓𝑥.𝑖𝑜
