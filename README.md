@@ -108,3 +108,12 @@ movie-recommendation-system/
    ```bash
    git clone https://github.com/yourusername/movie-recommendation-system.git
    cd movie-recommendation-system
+
+2. **Set up JavaFX (for GUI version)**
+
+Download JavaFX SDK from openjfx.io
+
+IntelliJ IDEA:
+
+- File → Project Structure → Libraries → + → Java → Select JavaFX lib folder
+- Run → Edit Configurations → VM options: ```--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml```
