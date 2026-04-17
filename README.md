@@ -54,7 +54,7 @@ Movie-Recommendation-Tracker/
 
 1. **𝐶𝑙𝑜𝑛𝑒 𝑡ℎ𝑒 𝑟𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑦**
    ```
-   git clone https://github.com/yourusername/Movie-Recommendation-Tracker.git
+   git clone https://github.com/bohanhu118/Movie-Recommendation-Tracker.git
    cd Movie-Recommendation-Tracker
    ```
 
