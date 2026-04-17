@@ -64,14 +64,14 @@ Movie-Recommendation-Tracker/
    - 𝑅𝑢𝑛 → 𝐸𝑑𝑖𝑡 𝐶𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑎𝑡𝑖𝑜𝑛𝑠 → 𝑉𝑀 𝑜𝑝𝑡𝑖𝑜𝑛𝑠: ```--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml```
 
 3. **𝑅𝑢𝑛 𝑡ℎ𝑒 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛**
-𝐶𝐿𝐼 𝑉𝑒𝑟𝑠𝑖𝑜𝑛:
-```
-javac src/*.java
-java -cp src MovieSystemCLI
-```
-𝐺𝑈𝐼 𝑉𝑒𝑟𝑠𝑖𝑜𝑛:
-```
-javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls src/*.java
-java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp src MovieSystemGUI
-```
+   𝐶𝐿𝐼 𝑉𝑒𝑟𝑠𝑖𝑜𝑛:
+   ```
+   javac src/*.java
+   java -cp src MovieSystemCLI
+   ```
+   𝐺𝑈𝐼 𝑉𝑒𝑟𝑠𝑖𝑜𝑛:
+   ```
+   javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls src/*.java
+   java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -cp src MovieSystemGUI
+   ```
 
