@@ -37,7 +37,7 @@ Movie-Recommendation-Tracker/
 │   │   ├── RecommendationEngine.java # Recommendation algorithms
 │   │   ├── CSVHandler.java           # File I/O operations
 │   │   └── SaltHash.java             # Password hashing utility
-├── Resources/
+├── data/
 │       ├── movies.csv                # Movie database
 │       └── users.csv                 # User data storage
 ├── README.md
